@@ -1,4 +1,3 @@
-# bpei-opt
-Bayesian optimization with machine learning as surrogate funtions.
+# Bayesian Optimization and Machine Learning
 
 Manuscript under review
